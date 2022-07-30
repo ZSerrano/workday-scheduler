@@ -4,6 +4,7 @@
 https://zserrano.github.io/workday-scheduler/
 
 ## Screenshot of Deployed Website
+![Image shows the deployed version of the workday scheduler site] (https://i.imgur.com/6gVqi96.png)
 
 ## Description
 Created a functioning workday scheduler by adding to the starter code given to me and following the acceptance criteria given.  User will is able to see time blocks representing 9am-5pm, enter text in each time block, and save that text to local storage utilizing the save button on the right end of each block.  Save button allows information in each text area to be saved even if the page is refreshed.  
