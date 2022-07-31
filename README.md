@@ -18,3 +18,10 @@ Created a functioning workday scheduler by adding to the starter code given to m
 - Created a function to go through each time block and utilize Moment.js to add/remove classes to each block based on what time it was when the user opened up the site; different colors represented past, present, and future blocks
 - Created methods to pull data from local storage that was saved using the 'Save' button in order to ensure it remains on the page even if the page is refreshed
 
+## Contributors
+- Zach Serrano (myself)
+
+## Technologies Used
+- Bootstrap 
+- JQuery
+- Moment.js
